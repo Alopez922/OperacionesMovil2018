@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Operacionesmovil2018</string>
+    <string name="titulo">OPERACIONES</string>
+    <string name="numero_1">Numero_1</string>
+    <string name="numero_dos">Numero_Dos</string>
+    <string name="sumar">Sumar</string>
+</resources>
