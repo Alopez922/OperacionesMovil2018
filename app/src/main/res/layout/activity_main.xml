@@ -26,7 +26,7 @@
         android:inputType="numberDecimal" />
 
     <EditText
-        android:id="@+id/editText2"
+        android:id="@+id/txtNumeroDos"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:ems="10"
@@ -37,6 +37,7 @@
         android:id="@+id/button"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:onClick="calcular"
         android:text="@string/sumar"
         android:textAlignment="center"
         android:textSize="18sp"
@@ -46,7 +47,6 @@
         android:id="@+id/lblresultado"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="TextView"
         android:textAlignment="center"
         android:textSize="18sp"
         android:textStyle="bold" />
